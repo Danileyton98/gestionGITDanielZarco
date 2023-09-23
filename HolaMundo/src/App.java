@@ -1,6 +1,7 @@
 public class App {
     public static void main(String[] args) throws Exception {
         System.out.println("Hello, World!");
+        System.out.println("BUG SOLUCIONADO");
 
         int[] numeros = {34, 65, 234, 98, 93};
         int numMayor = 0;
